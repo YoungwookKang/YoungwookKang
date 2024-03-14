@@ -1,3 +1,15 @@
+<br/>
+ <br/>
+
+
+<div align="center"> 
+
+### :wave: 👋 Hi, I’m Youngwook Kang, <br/><br/> 👀 I’m interested in Android developer and Back-end developer, <br/><br/> 💻 Computer Science at Georgia Institute of Technology.<br/><br/>
+
+</div> 
+
+ <br/>
+
 - 👋 Hi, I’m Youngwook Kang,
 - 👀 I’m interested in Android developer and Back-end developer,
 - 💻 Computer Science at Purdue University
