@@ -4,20 +4,13 @@
 
 <div align="center"> 
 
-### :wave: 👋 Hi, I’m Youngwook Kang, <br/><br/> 👀 I’m interested in Android developer and Back-end developer, <br/><br/> 💻 Computer Science at Georgia Institute of Technology.<br/><br/>
+### :wave: Hi, I’m Youngwook Kang, <br/><br/> 👀 I’m interested in Android developer and Back-end developer, <br/><br/> 💻 Computer Science at Georgia Institute of Technology.<br/><br/>
 
 </div> 
 
  <br/>
 
-- 👋 Hi, I’m Youngwook Kang,
-- 👀 I’m interested in Android developer and Back-end developer,
-- 💻 Computer Science at Purdue University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-####  :clipboard: Once I've Used 
+####  :clipboard: Technical Skills
   
  <br/>
  
