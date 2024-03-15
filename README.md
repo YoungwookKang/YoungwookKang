@@ -32,8 +32,11 @@
  <br/>
  <br/>
 
- ## <p align = "center"> 📊 GitHub Stats :chart_with_downwards_trend:<br /><br /> <img src="https://github-readme-stats.vercel.app/api?username=YoungwookKang&amp;show_icons=true" alt="GitHub Stats"></p>
- 
+ ## <p align="center"> 📊 GitHub Stats :chart_with_downwards_trend:</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoungwookKang&show_icons=true" alt="GitHub Stats" />
+</p>
  <br/>
  <br/>
 </div> 
