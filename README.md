@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-### :wave: Hi, I’m Youngwook Kang, <br/><br/> 👀 I’m interested in Android developer and Back-end developer, <br/><br/> 💻 Computer Science at Georgia Institute of Technology.<br/><br/>
+### :wave: Hi, I’m Youngwook Kang, <br/><br/> 👀 I’m Back-end developer, <br/><br/> 💻 Computer Science at Georgia Institute of Technology.<br/><br/>
 
 </div> 
 
